@@ -10,10 +10,7 @@ import org.cloudbus.cloudsim.core.CloudSim;
 import org.cloudbus.cloudsim.core.CloudSimTags;
 import org.cloudbus.cloudsim.core.SimEvent;
 
-/**This broker allocates VMs to data center following the
- * <a href="http://en.wikipedia.org/wiki/Round-robin_scheduling">Round-robin</a> algorithm.
- * @author Ameya Adhyapak https://github.com/ameya01
- **/
+
 
 public class RRDataCenterBroker extends DatacenterBroker  
 {

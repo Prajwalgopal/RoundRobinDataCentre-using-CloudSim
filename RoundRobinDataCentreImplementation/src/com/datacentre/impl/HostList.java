@@ -10,11 +10,7 @@ import java.util.List;
 
 import org.cloudbus.cloudsim.Host;
 
-/**
- * 
- * @author Prajwal Gopal
- * 
- */
+
 
 public final class HostList implements Iterable<Host> {
 

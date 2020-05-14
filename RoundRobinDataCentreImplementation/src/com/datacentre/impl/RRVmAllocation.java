@@ -9,12 +9,7 @@ import org.cloudbus.cloudsim.Log;
 import org.cloudbus.cloudsim.Vm;
 import org.cloudbus.cloudsim.core.CloudSim;
 
-/**
- * This file allocates VM to Round-Robin allocation policy.
- * 
- * @author nikeshhegde
- * 
- */
+
 
 public class RRVmAllocation extends org.cloudbus.cloudsim.VmAllocationPolicy {
 	
