@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# RoundRobinDataCentre-using-CloudSim
-Implementation of Round Robin Algorithm for Data Centre Load Balancing
-=======
 # RoundRobinDataCentre using CloudSim
 Implementation of Round Robin Algorithm for Data Centre Load Balancing
 
@@ -14,4 +10,3 @@ Implementation of Round Robin Algorithm for Data Centre Load Balancing
 6) Enter the Bandwidth of each Server.
 7) Enter the no of cloudlets / tasks you want to give to the servers to execute.
 8) The output for each tasks / cloudlets will be displayed after the simulation.
->>>>>>> 73b65b1... First commit
